@@ -1,5 +1,10 @@
 body {
   background-color: lightblue;
+  font-family:Verdana; 
+  color:white; 
+  text-align:center; 
+  max-width:980px; 
+  margin: auto;">
 }
 
 h1 {
