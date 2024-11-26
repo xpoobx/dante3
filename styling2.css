@@ -3,5 +3,6 @@ body {
   font-family:Verdana; 
   color:black; 
   max-width:980px; 
-  margin:auto;
+  margin:20px;
+  width: auto;
 }
